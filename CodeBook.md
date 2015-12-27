@@ -8,7 +8,7 @@ All information was also taken from there.
 SubjectID - Represents the id of the subject (30 subjects in total)
 ActivityType - Represents the type of activity that the subject was carrying out (Walking, walking upstairs, walking downstairs, sitting, standing, laying)
 
-##- The units used for the body acceleration are 'g's (gravity of earth -> 9.80665 m/seg2).
+##The units used for the body acceleration are 'g's (gravity of earth -> 9.80665 m/seg2).
 ##The units used for the angular velocity are rad/seg.
 
 ##The variables with XYZ listed at the end of their name show up with one of those letters three separate times in the tidy data (representing a different axis direction each time).
